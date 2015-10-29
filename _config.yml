@@ -1,0 +1,23 @@
+name: forex
+favicon: null
+layout_spectrum: 0.4057537722401321
+typography_spectrum: 0.9849326892290264
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7457425019238144
+  lightness: 0.38429224700666964
+  saturation: 0.8820058759301901
+  rhythmicContrast: 0.0970336131285876
+purpose: []
